@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hensa-el-waga3/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Mosh Hensa El Waga3](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
